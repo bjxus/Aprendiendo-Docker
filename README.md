@@ -33,3 +33,4 @@ Crea un nuevo contenedor con el nombre de tu usuario de correo
 ![Captura de pantalla 2025-02-13 194708](https://github.com/user-attachments/assets/e26c605d-40c3-4641-8418-f7c87bd54787)
 
 Publica el puerto 80
+![Captura de pantalla 2025-02-13 194733](https://github.com/user-attachments/assets/ab538c05-8a29-4655-ab1e-bc642e08d365)
